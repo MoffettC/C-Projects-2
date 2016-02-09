@@ -1,0 +1,15 @@
+﻿Build started 11/21/2015 7:18:24 PM.
+     1>Project "C:\Users\20ninjas\OneDrive\Prog100\CipherLab\CipherLab\CipherLab.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         I:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\20ninjas\onedrive\prog100\cipherlab\cipherlab\main.c(32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+       Link:
+         I:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\20ninjas\OneDrive\Prog100\CipherLab\Debug\CipherLab.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\20ninjas\OneDrive\Prog100\CipherLab\Debug\CipherLab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\20ninjas\OneDrive\Prog100\CipherLab\Debug\CipherLab.lib" /MACHINE:X86 Debug\main.obj
+         CipherLab.vcxproj -> C:\Users\20ninjas\OneDrive\Prog100\CipherLab\Debug\CipherLab.exe
+     1>Done Building Project "C:\Users\20ninjas\OneDrive\Prog100\CipherLab\CipherLab\CipherLab.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.37
